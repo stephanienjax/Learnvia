@@ -7,7 +7,7 @@ indeterminate form 0/0, where the simplified value is 1/a for an integer a.
 Tabs
     Lesson     Concept framing, guided example, two participation activities.
     Practice   Standard difficulty (a in 2..9), x -> -1 form.
-    Homework     Homework difficulty (a in 10..15), x -> -1 form.
+    Homework   Homework difficulty (a in 10..15), x -> -1 form.
 
 Algebra and answer verification use SymPy; exact rational comparison is
 attempted first, with a small float tolerance as a fallback for decimal
