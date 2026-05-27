@@ -70,14 +70,12 @@ MC_QUESTIONS = [
             "Factor, cancel the shared root, then re-substitute to recover the actual value."
         ),
         "wrong_explains": {
-            0: "0/0 does not automatically mean the limit is missing. "
-               "The form is indeterminate — the ratio is unresolved, not absent. "
+            0: "0/0 does not mean the limit is missing. "
+               "The form is indeterminate — the ratio is unresolved and needs to be simplified. "
                "Factoring the denominator often reveals a perfectly finite limit value.",
-            1: "0/0 does not equal 0. Both pieces vanish, but the ratio is not "
-               "determined by that alone. Always simplify the expression first "
-               "before drawing any conclusion.",
+            1: "0/0 does not equal 0. Always simplify the expression first.",
             3: "A limit describes what the function approaches near a point, not "
-               "at the point itself. The function can be undefined at x0 and still "
+               "at the point itself. The function can be undefined at a point and still "
                "have a well-defined limit there.",
             },
         },
@@ -107,8 +105,7 @@ MC_QUESTIONS = [
                "cancel each other. The limit finds the value the expression "
                "approaches, and the square root is applied to that value afterward.",
             3: "After factoring and cancelling, the radicand becomes a positive "
-               "number, so complex numbers are not the concern here. The real reason "
-               "to wait is that sqrt(0/0) is indeterminate until the algebra is done.",
+               "number, so complex numbers are not the concern here.",
         },
     },
 ]
