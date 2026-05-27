@@ -1,8 +1,8 @@
 # Limit Practice
 
 An interactive three-tab Streamlit module for evaluating square-root limits of
-the indeterminate form **0/0**. Built for the Learnvia *Content Technical
-Developer* exercise, with a student-first instructional structure modeled on
+the indeterminate form **0/0**. Built for the Learnvia *Technical
+Generalist* exercise, with a student-first instructional structure modeled on
 the zyBooks lesson → participation → practice rhythm.
 
 Each generated problem has the form
