@@ -2,7 +2,6 @@
 Learnvia — Calculus I · Limit Practice
 
 A three-tab Streamlit module for evaluating square-root limits of the
-indeterminate form 0/0, where the simplified value is 1/a for an integer a.
 
 Tabs
     Lesson     Concept framing, guided example, two participation activities.
@@ -71,7 +70,7 @@ MC_QUESTIONS = [
             "Factor, cancel the shared root, then re-substitute to recover the actual value."
         ),
         "wrong_explains": {
-            0: "Actually, 0/0 does not automatically mean the limit is missing. "
+            0: "0/0 does not automatically mean the limit is missing. "
                "The form is indeterminate — the ratio is unresolved, not absent. "
                "Factoring the denominator often reveals a perfectly finite limit value.",
             1: "0/0 does not equal 0. Both pieces vanish, but the ratio is not "
