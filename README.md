@@ -66,6 +66,6 @@ point the entry file at `streamlitAppUpdate.py`, and ship.
 
 | File                      | Purpose                                                 |
 |---------------------------|---------------------------------------------------------|
-| `streamlitAppUpdate.py`   | The Streamlit application (single file, ~600 lines).    |
+| `streamlit_app.py`   | The Streamlit application (single file, ~600 lines).    |
 | `requirements.txt`        | Minimum runtime dependencies.                           |
 | `README.md`               | This file.                                              |
