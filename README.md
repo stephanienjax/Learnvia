@@ -3,7 +3,7 @@
 An interactive three-tab Streamlit module for evaluating square-root limits of
 the indeterminate form **0/0**. Built for the Learnvia *Technical
 Generalist* exercise, with a student-first instructional structure modeled on
-the zyBooks lesson → participation → practice rhythm.
+the lesson → practice → homework problem rhythm.
 
 Each generated problem has the form
 
@@ -18,8 +18,8 @@ limit equals **1/a** for some integer *a*.
 | Tab          | Audience                  | What's there                                                                                          |
 |--------------|---------------------------|-------------------------------------------------------------------------------------------------------|
 | **Lesson**   | First exposure            | Why-it-matters framing, the four-step solving rhythm, a fully worked guided example, two MCQs.        |
-| **Practice** | Building fluency          | Standard difficulty (*a* ∈ 2..9), the canonical $x \to -1$ form.                                       |
-| **Homework**   | Stretch and consolidation | Challenge difficulty (*a* ∈ 10..12) with **three randomized variants** that shift the limit point and surviving factor. |
+| **Practice** | Building fluency          | Standard difficulty (*a* ∈ 2..9), the canonical $x \to -1$ form.                                      |
+| **Homework** | Stretch and consolidation | Challenge difficulty (*a* ∈ 10..12) , the canonical $x \to -1$ form.                                  |
 
 ## Pedagogical features
 
