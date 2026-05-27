@@ -439,7 +439,7 @@ def feedback_for(kind: str, p: Problem) -> Tuple[str, str]:
             f"<code>{1 / a:.5f}</code>. Try entering the fraction <code>1/{a}</code>.",
         )
     return (
-        "Try again!",
+        "Try again on the next problem!",
         f"Walk the steps in order: substitute <code>x = {x0}</code> &rarr; factor "
         f"&rarr; cancel <code>({num})</code> &rarr; substitute again &rarr; take "
         f"the square root.",
