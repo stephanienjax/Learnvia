@@ -19,7 +19,7 @@ limit equals **1/a** for some integer *a*.
 |--------------|---------------------------|-------------------------------------------------------------------------------------------------------|
 | **Lesson**   | First exposure            | Why-it-matters framing, the four-step solving rhythm, a fully worked guided example, two MCQs.        |
 | **Practice** | Building fluency          | Standard difficulty (*a* ∈ 2..9), the canonical $x \to -1$ form.                                       |
-| **Review**   | Stretch and consolidation | Challenge difficulty (*a* ∈ 10..12) with **three randomized variants** that shift the limit point and surviving factor. |
+| **Homework**   | Stretch and consolidation | Challenge difficulty (*a* ∈ 10..12) with **three randomized variants** that shift the limit point and surviving factor. |
 
 ## Pedagogical features
 
