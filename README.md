@@ -51,7 +51,7 @@ decimal entries. Floating-point drift never wrongly flags a correct response.
 
 ```bash
 pip install -r requirements.txt
-streamlit run streamlitAppUpdate.py
+streamlit run streamlit_app.py
 ```
 
 The app opens at `http://localhost:8501`. No external services or API keys
