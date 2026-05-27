@@ -746,7 +746,7 @@ def render_mc_question(i: int, q: dict) -> None:
                     f"<div class='lv-feedback lv-warn'>"
                     f"<h4>Not quite.</h4>"
                     f"{wrong_block}"
-                    f"<p>The correct choice is: <em>{correct_text}</em><br>"
+                    f"<p><br>The correct choice is: <em>{correct_text}</em><br>"
                     f"{q['explain']}</p></div>",
                     unsafe_allow_html=True,
                 )
