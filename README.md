@@ -23,9 +23,8 @@ limit equals **1/a** for some integer *a*.
 
 ## Pedagogical features
 
-- **Progressive hints.** Three escalating hint levels — name the trap, do the
-  factoring, then reveal the answer. The hint level also auto-advances on each
-  wrong submission so struggling students get more scaffolding without asking.
+- **Progressive hints.** Three levels of scaffolding — conceptual nudge,
+  factoring help, then the full answer. Wrong submissions advance the level automatically.
 - **Diagnostic feedback.** Wrong answers are mapped to the most likely
   conceptual slip (missed sqrt, sign error, factoring error, reciprocal flip,
   rounding) and the relevant step is highlighted in the worked solution.
@@ -66,6 +65,6 @@ point the entry file at `streamlitAppUpdate.py`, and ship.
 
 | File                      | Purpose                                                 |
 |---------------------------|---------------------------------------------------------|
-| `streamlit_app.py`   | The Streamlit application (single file, ~600 lines).    |
+| `streamlit_app.py`        | The Streamlit application (single file, ~600 lines).    |
 | `requirements.txt`        | Minimum runtime dependencies.                           |
 | `README.md`               | This file.                                              |
