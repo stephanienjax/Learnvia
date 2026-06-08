@@ -7,7 +7,7 @@ the lesson → practice → homework problem rhythm.
 
 Each generated problem has the form
 
-$$\lim_{x \to x_0}\;\sqrt{\frac{x - x_0}{x^2 + cx + b}}$$
+$$\lim_{x \to x_0}\\sqrt{\frac{x - x_0}{x^2 + cx + b}}$$
 
 where the integer coefficients are chosen so the denominator factors as
 $(x - x_0)(x + s)$, the radicand cancels to $1/(x + s)$, and the simplified
